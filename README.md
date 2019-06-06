@@ -61,7 +61,7 @@ yeZ8fx/WCeuXbxwKQfAHP1H/5ydfIt73bU8vSFoKAwlOXR4nNBXvb8wcInzhIIWs
 -----END CERTIFICATE-----
 ```
 
-## Master Certificate (DEPRECATED)
+## Master Certificate (Legacy)
 
 ### SHA-1 Fingerprint
 
