@@ -1,10 +1,101 @@
 Public Keys
 ======
 
-This is a place to store public keys that have been or will be used by **Makito** or **Bitcat Interactive Lab** in code signing.
+This is a place to store public keys, certificates, or certificate fingerprints that have been or will be used by **Makito** or **Bitcat Interactive Lab** in code signing.
 
-You can use these public keys to verify the digital signature of our published applications.
+You can use these information to verify the digital signature of our published applications.
 
 **THIS IS NOT A GUARANTEE OR PROMISE.**
 
 Be safe.
+
+## Master Certificate
+
+### SHA-1 Fingerprint
+
+```
+8B:15:1D:65:E5:D1:09:74:9E:5B:A7:60:88:68:A7:D0:16:44:4A:CD
+```
+
+### SHA-256 Fingerprint
+
+```
+81:E8:A0:12:F6:16:3F:0A:03:04:30:83:EC:4D:5D:7F:52:BE:8A:4D:13:FE:D0:56:AC:93:4F:25:76:DC:AD:5D
+```
+
+### PEM
+
+```
+-----BEGIN CERTIFICATE-----
+MIIFxzCCA6+gAwIBAgIEOPZUoTANBgkqhkiG9w0BAQsFADCBkzEQMA4GA1UEBhMH
+VW5rbm93bjEQMA4GA1UECBMHVW5rbm93bjEQMA4GA1UEBxMHVW5rbm93bjEfMB0G
+A1UEChMWQml0Y2F0IEludGVyYWN0aXZlIExhYjEQMA4GA1UECxMHVW5rbm93bjEo
+MCYGA1UEAwwfTWFraXRvIDxzdW1pbWFraXRvQGhvdG1haWwuY29tPjAeFw0xOTA2
+MDYwMzM1MDVaFw00OTA1MjkwMzM1MDVaMIGTMRAwDgYDVQQGEwdVbmtub3duMRAw
+DgYDVQQIEwdVbmtub3duMRAwDgYDVQQHEwdVbmtub3duMR8wHQYDVQQKExZCaXRj
+YXQgSW50ZXJhY3RpdmUgTGFiMRAwDgYDVQQLEwdVbmtub3duMSgwJgYDVQQDDB9N
+YWtpdG8gPHN1bWltYWtpdG9AaG90bWFpbC5jb20+MIICIjANBgkqhkiG9w0BAQEF
+AAOCAg8AMIICCgKCAgEAqLckG7QHulilwQgt3Tp+DjMApbE3vupJKovA9kp/bJ3b
+9IB7qteW8IW38fQQMv8p8N3A9WgGWnuounC8pF+dni84H/tCPcJxD++fZ3y+bvA/
+/8fVf3ec9bcwLp5sYzM013BIRzkF6MA0hus68PB7OoqIWUAfQB3hIMglem6ld+/Z
+UWZg4cWxikJVe/jkVmwK06wAl7EjhTL3LONiGxyPSHvQHE1DCPX+MN6/G3NyWMfU
+OqFFry/8XRfWurNdkl0TnaCaUJ4Ka3cjrznTIEJH9ki82CccrwNIW4dqndT1mW5k
+/HH9dJv5KoZ+SgcROPKEA2+crxbTFCohPNWULCtg7gGXRkkKQdK1r9DG972dHkwt
+9H0B6R8iDihcuyj9nt6Ol7DiMb4Tafj1PuSW4zdFryvV3JKABJdH/QkHZSVzYNAt
+vuze22J+eJDRrB8WbwpiY8hG7CyDIt/MiS5qW+jF4/GhKfWA294Ei5YWOePPA/oO
+xwcieMOSD2IsZoGn7jM+XQ5wh5KbL0uH90ZQKD75VhQrGuhOi9Swtluc456uhYkB
+kECUHbRjq6XERS5IPVngH9LmbphlEMcA/LLJ78hPtSdojl2GLey4X1HdLCaqgmi1
+26wCiIS5u1kcfHAIWbol11v5INmUawBROqRw98fxQVMtvMEzA9/H2Q7P9m0O1WUC
+AwEAAaMhMB8wHQYDVR0OBBYEFJRP3e7CNsA2TVpWEK0c9BsWpbn9MA0GCSqGSIb3
+DQEBCwUAA4ICAQBD61Qn373vT/pdc+HNZjTornmIyI2r1HbGm1o1zMUc4qKZ/M41
+zf+CDNvB+V5iIIAPzdnUZdgIKVf25OHlvIiAp238nnT9mOuTQTncn0RSIlZBessQ
+S9d1bEUKNu2Cv1Er6ZNBimvxobEspc3sSMJMcpEytuGCD4T3iJXbqab/tGnl0yyO
+cp11rQpwV+qtkdxsR3Gh9pwsVCwH4J3fQkgfI7cp1oEyiJA5ilNv43s8s3NBX8wi
+5T1TsRGJxiiakdms6EYKx92Kdl2nmk5pn3//jpQrBwCXgtZed22c0egSDxFfylUP
+gPR/kK+kqp+/ws6t6mV7uTcAbpLn7v+dwchNCK0iiy1xTS4M3I5fXCl1WdBgwcgO
+dfvjzVEUSxdeUYc5IFus2JALG3exxTPsZffu9zw+KSQBfpc1b3a8mxk9JElQBdGx
+3qBTx0g/FVMqo3c/BglYe+tipdJfhrkigVGEOJrCVr3i1YNt33V40i9tw8rXuptv
+buALolkTDfCTdHOGGBSTGaVnfQJ1tcQTMJWJKamiVbz1FHggrteBExhqDItJdekr
+yeZ8fx/WCeuXbxwKQfAHP1H/5ydfIt73bU8vSFoKAwlOXR4nNBXvb8wcInzhIIWs
+9EKYJ6allv2uR/KLg771PrnlDtY8EIOHMw8ZWIJsRSTr9XHzF0jt0DVD1A==
+-----END CERTIFICATE-----
+```
+
+## Master Certificate (DEPRECATED)
+
+### SHA-1 Fingerprint
+
+```
+FF:3A:AF:BF:A9:D7:81:23:B2:97:25:EB:D6:98:D7:1A:61:49:D3:F1
+```
+
+### SHA-256 Fingerprint
+
+```
+A4:6A:0E:E2:E7:1C:5A:51:B8:EC:85:6E:C5:57:43:23:35:68:62:16:54:E8:48:A1:75:1B:6F:D7:80:9B:22:C4
+```
+
+### PEM
+
+```
+-----BEGIN CERTIFICATE-----
+MIIDTzCCAjegAwIBAgIEe6CfoDANBgkqhkiG9w0BAQsFADBYMQswCQYDVQQGEwJD
+TjEfMB0GA1UEChMWQml0Y2F0IEludGVyYWN0aXZlIExhYjEoMCYGA1UEAwwfTWFr
+aXRvIChzdW1pbWFraXRvQGhvdG1haWwuY29tKTAeFw0xNzA0MjIxMjE0MjRaFw00
+MjA0MTYxMjE0MjRaMFgxCzAJBgNVBAYTAkNOMR8wHQYDVQQKExZCaXRjYXQgSW50
+ZXJhY3RpdmUgTGFiMSgwJgYDVQQDDB9NYWtpdG8gKHN1bWltYWtpdG9AaG90bWFp
+bC5jb20pMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg1vRDye86t+J
+7Tc59FZMfFP1oYYlL0/d0q8t8TxNbJQQbQ28Qz3scQ0YuAuvkhqoTr5tw8W2WJeU
+6fC5dOvZm3mN3DG6Y0AhAu90JXk1XgLCMpozGYzzpYbM+unfccoISkxy9D3eOAqy
+DKeiuciTXwuAS8lXfSlpUD4jymtTCR+Gb/YGlcs76seU2Wx6KuOot20M60SgDstw
+6kz0zvn7A3jy2E9wPMhXAG6WdgvaFj5VM4xvNVfz9E2lej+PWO2ahhE/4nBXmGBB
+fAEycvRxkacy7fxJxSGTnT63vT4ejglMaTCeseWC9/zZi6uGig0Th6Zyy1v54dIe
+EMKaA2dtgwIDAQABoyEwHzAdBgNVHQ4EFgQUDREqs5DWGmqTAvJ17EYjl7VDCyAw
+DQYJKoZIhvcNAQELBQADggEBAFzGHiALNgVwU7gEdZ+7ucl3iEVABjYUHAIiEX7R
+TJW9Tph/UuIn7sTPZppXzZ5h2CuZmNbYFIw4jqSYxlXOOqP2zD4QzSxiTwo1seVW
++u7RcU3M0D4Gf8d/Ilg/sFP5lxgOzTOMq7FcYyv5WEPG4zSat4JG1Z8O59cx3HL4
+DxRA1ZXpn+uchcFa0NaAi2nGgegue5jyQmO4M6l5bf5XDaTSxsIZRHEUOcyVRFOr
+utRzargqJU8r9FOy6ECuQA7Uq28e6NVQT9NubFjhWj1gniN7bM5YdtOnbhJRURNh
+7KTPMQIHMjhy6FgY/0Ss3hPcb+dKYaaG1uCQ6jkl4yspl88=
+-----END CERTIFICATE-----
+```
